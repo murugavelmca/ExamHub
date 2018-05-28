@@ -7,3 +7,9 @@ Plan to add following initial support
     ii) Master can add exam & setup question and publish exam to student & track the results
     iii) Student need to complete the exam published by Master and view history of exam results.
  3) Student can print exam result
+
+Technology
+    1) Spring boot, Hypernate, Java
+    2) MySQL
+    3) Angular / React
+    4) Webpack
