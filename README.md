@@ -13,3 +13,4 @@ Technology
     2) MySQL
     3) Angular / React
     4) Webpack
+    5) Node JS / Java Service layer
